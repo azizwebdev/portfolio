@@ -362,7 +362,7 @@ label {
 }
 
 .slider-content h1 {
-  color: black;
+  color: #00FFFF;
   font-size: 90px;
   font-weight: 700;
   margin-bottom: 30px;
@@ -371,7 +371,7 @@ label {
 }
 
 .slider-content p {
-  color: #000;
+  color: #FFFFE0;
   font-weight: bold;
   font-size: 25px;
   margin-bottom: 30px;
