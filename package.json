@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My Personal Portfolio",
   "main": "index.js",
-  "homepage": "https://azizwebdev.github.io/portfolio",
+  "homepage": "http://azizwebdev.github.io/portfolio",
   "scripts": {
     "deploy": "gh-pages -d main",
     "test": "echo \"Error: no test specified\" && exit 1"
